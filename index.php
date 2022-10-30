@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+   <title>bejemmed!</title>
     <style>
       body,html{
         background: #000;
